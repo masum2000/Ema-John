@@ -8,3 +8,14 @@
     position: sticky;
     top: 0;
 }
+.btn-clear-cart{
+    display: flex;
+    width: 90%;
+    font-size: 15px;
+    margin: 10px auto;
+    background: #f55252;
+    border-radius: 5px;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
